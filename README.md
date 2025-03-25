@@ -6,7 +6,7 @@ TaskManager is a full-stack task management application built using the **MERN S
 ## 🛠️ Technologies Used
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB (Mongoose ODM)
+- **Database:** MongoDB 
 - **Version Control:** Git & GitHub
 
 ## 🚀 Features
