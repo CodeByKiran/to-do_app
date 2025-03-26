@@ -52,6 +52,13 @@ MONGO_URI=your_mongodb_connection_string
 | DELETE | `/api/tasks/:id` | Delete a task            |
 ```
 
+
+##Outputs 
+```
+![image](https://github.com/user-attachments/assets/33b10dcd-1fb5-4d7d-af42-1bbd2d69aea4)
+![WhatsApp Image 2025-03-26 at 15 47 30_c6509eae](https://github.com/user-attachments/assets/acd66318-b074-4ff1-96bf-37d60a0e0cc3)
+```
+
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests. Contributions are welcome! 🚀
 
