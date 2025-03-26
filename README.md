@@ -6,7 +6,7 @@ TaskManager is a full-stack task management application built using the **MERN S
 ## 🛠️ Technologies Used
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB 
+- **Database:** MongoDB
 - **Version Control:** Git & GitHub
 
 ## 🚀 Features
@@ -42,7 +42,7 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 ```
 
-## 📜 API Endpoints (Backend)
+## 🐜 API Endpoints (Backend)
 ```
 | Method |      Endpoint    |       Description        |
 |--------|------------------|--------------------------|
@@ -52,17 +52,17 @@ MONGO_URI=your_mongodb_connection_string
 | DELETE | `/api/tasks/:id` | Delete a task            |
 ```
 
+## 🎨 UI Screenshots
+### Task List View:
+![Task List](https://github.com/user-attachments/assets/33b10dcd-1fb5-4d7d-af42-1bbd2d69aea4)
 
-##Outputs 
-```
-![image](https://github.com/user-attachments/assets/33b10dcd-1fb5-4d7d-af42-1bbd2d69aea4)
-![WhatsApp Image 2025-03-26 at 15 47 30_c6509eae](https://github.com/user-attachments/assets/acd66318-b074-4ff1-96bf-37d60a0e0cc3)
-```
+### Task Completion:
+![Task Completion](https://github.com/user-attachments/assets/acd66318-b074-4ff1-96bf-37d60a0e0cc3)
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests. Contributions are welcome! 🚀
 
-## 📄 License
+## 🐄 License
 This project is licensed under the MIT License.
 
 ---
